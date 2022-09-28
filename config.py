@@ -1,6 +1,6 @@
 Vars = [
     # Bot API Token
-    "",
+    "5478011283:AAF8wL2dZIeh2p7j-ocz5TtydqowKtRQZ90",
     # GdToT Crypt
     "",
     # Laravel Session
